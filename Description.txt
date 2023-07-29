@@ -1,0 +1,30 @@
+In this project, I undertook a comprehensive sales analysis for a company to gain insights into their sales performance, identify trends, and make data-driven business decisions. The goal was to create interactive Power BI reports according to their needs that would allow stakeholders to visualize and explore sales data more effectively.
+
+Project Tasks and Accomplishments:
+A    Data Gathering / Requirement:
+ 1.      Sales (folder by year)
+ 2.      Categories (Excel)
+ 3.      Geography (Excel)
+ 4.      Product (CSV / Database)
+ 5.      SalesRep (Excel)
+ 6.      SubCategories (Excel)
+* Key Performance Indicators (KPIs) Definition:
+Collaborated with stakeholders to define essential KPIs for sales analysis, such as total revenue, sales growth rate, average order value, and sales by product category.
+*Interactive Power BI Reports:
+Designed and developed interactive Power BI reports with intuitive visualizations, including bar charts, line graphs, pie charts, and geographical maps.
+Implemented dynamic filters and slicers to allow users to drill down into specific regions, time frames, Year.
+*Sales Performance Dashboard:
+Created a comprehensive sales performance dashboard that provided an overview of KPIs, highlighting the company's overall sales performance.
+Enabled stakeholders to track progress against targets and compare sales performance across different periods.
+*Regional Sales Analysis:
+Developed a geographical map visualization to analyze sales performance across different regions and identify high-potential markets.
+Integrated the map with other visualizations to provide a holistic view of regional sales data.
+*Product Category Analysis:
+Implemented interactive charts to analyze sales by product categories, identifying top-selling products and underperforming items.
+Enabled stakeholders to explore product performance and make data-driven decisions for product portfolio management.
+*Trend Analysis:
+Utilized time-series line graphs to visualize sales trends over specific time intervals, helping stakeholders identify seasonality patterns and long-term growth trends.
+Outcome and Impact:
+The interactive Power BI reports provided stakeholders with a user-friendly and visually appealing platform to explore sales data.
+Enabled better decision-making through data-driven insights, leading to improved sales strategies and revenue growth.
+The project empowered stakeholders to identify untapped opportunities and optimize sales performance at regional and product levels.
